@@ -1,0 +1,103 @@
+{
+    "Manufacturing": [
+        {
+            "id": "Manufacturing",
+            "name": "Manufacturing Products",
+            "image": "",
+            "varieties": [
+                {"name": "KRRISH Paper Dona", "image": ""},
+                {"name": "KRRISH Paper Chilla Plate Silver", "image": ""},
+                {"name": "KRRISH White Paper Chilla Plate & Dona (POLY)", "image": ""},
+                {"name": "KRRISH Silver Paper Plate (Regular)", "image": ""},
+                {"name": "KRRISH Paper Plate Green (Kela Patta)", "image": ""},
+                {"name": "KRRISH Printed Small Paper Plate (Fancy)", "image": ""},
+                {"name": "KRRISH Paper Plate PC", "image": ""},
+                {"name": "KRRISH Paper Plate Duplex (Misprint)", "image": ""},
+                {"name": "KRRISH T.T. & Snacks Paper Plate Silver", "image": ""},
+                {"name": "KRRISH Silver Paper Thali", "image": ""},
+                {"name": "KRRISH Paper Lid for Aluminium Foil Container", "image": ""},
+                {"name": "KRRISH Ripple Paper Cup", "image": ""},
+                {"name": "KRRISH Paper Straw", "image": ""},
+                {"name": "KRRISH Pizza Box", "image": ""},
+                {"name": "KRRISH Popcorn Cone", "image": ""},
+                {"name": "KRRISH Laddu Dibbi", "image": ""},
+                {"name": "KRRISH Butter Paper Food Wrapping Sheets & Roll", "image": ""},
+                {"name": "KRRISH Food Wrapping Foil Paper Roll", "image": ""},
+                {"name": "KRRISH Aluminium Foil", "image": ""},
+                {"name": "KRRISH BOPP Self Adhesive tape Clear, Brown & Printed", "image": ""},
+                {"name": "KRRISH Chef Cap Woven & Non-Woven", "image": ""},
+                {"name": "KRRISH Chef Cap Paper", "image": ""},
+                {"name": "Bouffant Cap Blue, Black & White", "image": ""},
+                {"name": "KRRISH Napkins Non-Woven", "image": ""},
+                {"name": "KRRISH Apron Non-Woven", "image": ""},
+                {"name": "KRRISH Face Mask Black & Blue", "image": ""},
+                {"name": "KRRISH TOOTHPICK Jar Packing", "image": ""},
+                {"name": "KRRISH Garbage Bag Roll Black", "image": ""},
+                {"name": "KRRISH Plastic Straws", "image": ""},
+                {"name": "KRRISH Butter Paper Laddu Katori", "image": ""}
+            ]
+        }
+    ],
+    "Imported": [
+        {
+            "id": "Imported",
+            "name": "Imported Products",
+            "image": "",
+            "varieties": [
+                {"name": "Wooden Spoons", "image": ""},
+                {"name": "Wooden Spork", "image": ""},
+                {"name": "Wooden Fork", "image": ""},
+                {"name": "Wooden Knife", "image": ""},
+                {"name": "Wooden Set (Spoon + Fork + Knife + Napkin)", "image": ""},
+                {"name": "Wooden Boat", "image": ""},
+                {"name": "Wooden Cone", "image": ""},
+                {"name": "Twin ChopSticks", "image": ""},
+                {"name": "Coffee Stirrer", "image": ""},
+                {"name": "Wine Stirrer", "image": ""},
+                {"name": "Wooden Ice-Cream Sticks", "image": ""},
+                {"name": "Toothpick Fancy", "image": ""},
+                {"name": "BBQ Skewer", "image": ""},
+                {"name": "Potato Skewer", "image": ""},
+                {"name": "Gun Skewer", "image": ""},
+                {"name": "Heart Skewer", "image": ""},
+                {"name": "Knot Skewer", "image": ""},
+                {"name": "Vinyl Hand Gloves", "image": ""},
+                {"name": "Hand Gloves Cotton", "image": ""},
+                {"name": "Plastic Hand Gloves", "image": ""},
+                {"name": "Pocket Tissue", "image": ""},
+                {"name": "Ear Cleaning Buds", "image": ""},
+                {"name": "Dolli Paper Tray Mat", "image": ""},
+                {"name": "Compressed Towel", "image": ""},
+                {"name": "Fancy Straws", "image": ""},
+                {"name": "PP Glass", "image": ""},
+                {"name": "Kraft Paper Boat", "image": ""},
+                {"name": "U Shape Wooden Clip (CHIMTI)", "image": ""},
+                {"name": "Paper Popcorn Bucket", "image": ""},
+                {"name": "Vacuum Bag", "image": ""}
+            ]
+        }
+    ],
+    "Trading": [
+        {
+            "id": "Trading",
+            "name": "Trading Products",
+            "image": "",
+            "varieties": [
+                {"name": "Plastic Dona & Plates", "image": ""},
+                {"name": "Bio-Degradable Bugga's Dona & Plates", "image": ""},
+                {"name": "Cling Film Wrap PVC", "image": ""},
+                {"name": "Plastic Container for Food Packing", "image": ""},
+                {"name": "Food Packing Pouch", "image": ""},
+                {"name": "Shrink Films for Plastic Containers", "image": ""},
+                {"name": "Plastic Spoon", "image": ""},
+                {"name": "Plastic Fork", "image": ""},
+                {"name": "Wooden Chaat Stick (INDIAN)", "image": ""},
+                {"name": "Aluminium Foil Container", "image": ""},
+                {"name": "Foil Wrap", "image": ""},
+                {"name": "Paper Spoon & Fork", "image": ""},
+                {"name": "Hand Gloves Cotton (INDIAN)", "image": ""},
+                {"name": "Drawing Pins", "image": ""}
+            ]
+        }
+    ]
+}
